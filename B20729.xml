@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of Mr. John Cottons, teacher of the Church in Boston in New-England, to Mr. Williams, a preacher there wherein is shewed that those ought to be received into the Church who are Godly, though they doe not see nor expressely bewaile all the pollutions in church-fellowship, ministery, worship, government.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20729</idno>
+            <idno type="STC">Wing C6441</idno>
+            <idno type="EEBO-CITATION">11196526</idno>
+            <idno type="OCLC">ocm 11196526</idno>
+            <idno type="VID">204876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of Mr. John Cottons, teacher of the Church in Boston in New-England, to Mr. Williams, a preacher there wherein is shewed that those ought to be received into the Church who are Godly, though they doe not see nor expressely bewaile all the pollutions in church-fellowship, ministery, worship, government.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+                  <author>Williams, Roger, 1604?-1683.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for Benjamin Allen,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Discipline.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204876:1"/>
+            <pb facs="tcp:204876:1"/>
+            <p>A LETTER OF M<hi rend="sup">r</hi>. <hi>JOHN COTTONS</hi> Teacher of the Church in <hi>Boſton,</hi> IN NEVV-ENGLAND, TO M<hi rend="sup">r</hi>. <hi>WILLIAMS</hi> a Preacher there.</p>
+            <p>Wherein is ſhewed, That thoſe ought to be received into the Church who are Godly though they doe not ſee, nor expreſſely bewaile all the pollutions in Church-fellowſhip, Miniſtery, Worſhip, Government.</p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>John Bachiler.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> for <hi>Benjamin Allen.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204876:2"/>
+            <pb n="1" facs="tcp:204876:2"/>
+            <head>A Letter of M<hi rend="sup">r</hi>. <hi>John Cottons,</hi> Teacher of the Church in <hi>Boſton,</hi> in <hi>New England.</hi>
+            </head>
+            <opener>
+               <salute>Beloved in Chriſt,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I have little hope (when I conſi<g ref="char:EOLhyphen"/>der the uncircumciſion of mine owne lips, <hi>Exod.</hi> 6.12.) that you will hearken to my voyce, who hath not hearkened to the body of the whole Church of Chriſt with you, and the teſtimony, and judge<g ref="char:EOLhyphen"/>ment of ſo many Elders and Brethren of other Churches, yet I truſt my labour will be accepted of the Lord; and who can tell but that he may bleſſe it to you alſo, if (by his helpe) I indevour to ſhew you the ſandi<g ref="char:EOLhyphen"/>neſſe of thoſe grounds, out of which you have baniſhed yours from the fellowſhip of all the Churches in theſe Countries<g ref="char:punc">▪</g> Let not any pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>judice againſt my perſon (I beſeech you) fore<g ref="char:EOLhyphen"/>ſtall either your affection or judgement, as if I had haſtened forward the ſentence of your civill baniſhment; for what was done by the Magiſtrates, in that kinde, was neither done by my counſell nor conſent, although I dare not deny the ſentence paſſed to be righteous in the eyes of God, who hath ſaid that he that with-holdeth the Corne (which is the ſtaffe of life) from the people, the multitude ſhall curſe him, <hi>Prov.</hi> 11.26. how much more ſhall they ſeparate ſuch from them as doe with-hold and ſeparate them from the Ordinances, or the Ordinances from them (which are in Chriſt the bread
+<pb n="2" facs="tcp:204876:3"/>of life.) And yet it may be they paſſed that ſentence againſt you not upon that ground, but for ought I know, upon your other corrupt doctrines, which tend to the diſturbance both of civill and holy peace, as may appeare by that anſwer which was ſent to the Brethren of the Church of <hi>Salem,</hi> and to your ſelfe. And to ſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake freely what I thinke, were in ſoule in your ſoules ſtead, I ſhould thinke it a worke of mer<g ref="char:EOLhyphen"/>cy of God to baniſh me from the civill ſociety of ſuch a Common wealth, when I could not injoy holy fellowſhip with any Church of God amongſt them without ſin. What ſhould the Daughter of <hi>Zion</hi> doe in <hi>Babell?</hi> why ſhould ſhe not haſten to flee from thence? <hi>Zach.</hi> 2.6, 7.</p>
+            <p>I ſpeake not theſe things (the God of Truth is my witnes) to adde affliction to your affliction, but (if it were the holy will of God) to move you to a more ſerious ſight of your ſin, and of the juſtice of Gods hand againſt it. Againſt your cor<g ref="char:EOLhyphen"/>rupt Doctrines, it pleaſed the Lord Jeſus to fight againſt you with the ſword of his mouth (as himſelfe ſpeaketh, <hi>Rev.</hi> 2.16.) in the mouthes and teſtimonies of the Churches and Brethren. Againſt whom, when you over-heated your ſelfe in reaſoning and diſputing againſt the light of his truth, it pleaſed him to ſtop your mouth by a ſuddaine diſeaſe, and to threaten to take your breath from you. But you in ſtead of recoyling (as even <hi>Balaam</hi> offered to doe in the like caſe) you choſe rather to perſiſt in your way, and to proteſt againſt all the Churches and Brethren that ſtood in your way: and thus the good hand of Chriſt that ſhould have bumbled you, to ſee and turne from the errour of your way, hath rather hardned you therein, and quickned you onely to ſee failings (yea intolerable errours) in all the Churches and brethren, rather then in your ſelfe. In which courſe though you ſay you doe not remember an houre wherein the countenance of the Lord was darkned to you, yet be not deceived, it is no
+<pb n="3" facs="tcp:204876:3"/>new thing with Satan to transforme himſelfe into an Angell of light, and to cheare the ſoule with falſe peace, and with flaſhes of counterfeit conſolation. Sad and wofull is the memory of Maſter <hi>Smiths</hi> ſtrong conſo<g ref="char:EOLhyphen"/>lations on his death-bed, which are ſet as a Seale to the groſſe and damnable Arminianiſme and Enthuſiaſmes delivered in the confeſſion of his faith, prefixed to the ſtory of his life and death. The countenance of God is upon his people when they feare him, not when they preſume of their owne ſtrength; and his conſolations are found not in the way of preſidence in errour, but in the wayes of humility and truth.</p>
+            <p>Two ſtumbling blockes (I perceive by your letter) have turned you off from fellowſhip with us. Firſt, the want of fit matter of our Church. Secondly, diſreſpect of the ſeparate Churches in England under afflictions, who doe ourſelves practiſe ſeparation in peace.</p>
+            <p>
+               <q>For the firſt, you acknowledge (as you ſay) with joy that godly perſons are the viſible matter of theſe Churches, but yet you ſee not that godly perſons are matter fitted to conſtitute a Church, no more then trees or Quarries are fit matter proportioned to the building.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This exception ſeemeth to mee to imply a contradiction to it ſelfe, for if the matter of our Chur<g ref="char:EOLhyphen"/>ches be as you ſay godly perſons, they are not then as trees unfelled, or ſtones unhewen. Godlineſſe cutteth men downe from the former roote, and heweth them out of the pit of corrupt nature, and fitteth them for fel<g ref="char:EOLhyphen"/>lowſhip with Chriſt and with his people.</p>
+            <p>
+               <q>You object, firſt, a neceſſity lying upon godly men before they can be fit matter for Church fellowſhip, to ſee, bewaile, repent, and come out of the falſe Chur<g ref="char:EOLhyphen"/>ches
+<pb n="4" facs="tcp:204876:4"/>miniſtry, worſhip and government, according to Scripturs <hi>Iſa.</hi> 52.11. 2 <hi>Cor.</hi> 6.17. <hi>Revel.</hi> 18.4. And thoſe this to be done not by a locall remoovall or contrary practiſe, &amp;c. but by a deliverance of the ſoule, under<g ref="char:EOLhyphen"/>ſtanding, minde, conſcience, judgement, will and affe<g ref="char:EOLhyphen"/>ctions.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. We grant it is not locall remoovall from former pollutions, or contrary practiſe, that fitteth us for fellowſhip with Chriſt and his Church, but that it is ne<g ref="char:EOLhyphen"/>ceſſary alſo that we doe repent of ſuch former polluti<g ref="char:EOLhyphen"/>ons wherein we have beene defiled and inthralled.</p>
+            <p>Wee grant further that it is likewiſe neceſſary to Church-fellowſhip, we ſhould ſee and diſcerne all ſuch pollutions as doe ſo farre enthrall us to Antichriſt, to ſeparate us from Chriſt.</p>
+            <p>But this we profeſſe unto you, that wherein we have reformed our practiſe, therein have we endeavoured un<g ref="char:EOLhyphen"/>fainedly to humble our ſoules for our former contrary walking. If any through hypocriſie are wanting here<g ref="char:EOLhyphen"/>in, the hidden hypocriſie of ſome will not prejudice the ſinceritie and faithfulneſſe of others, not the Church eſtate of all.</p>
+            <p>And that we doe (by the grace of Chriſt) ſee and diſ<g ref="char:EOLhyphen"/>cerne all ſuch pollutions as doe ſo farre enthrall us to Antichriſt as to ſeparate us from Chriſt; your ſelfe doth acknowledge in acknowledging the viſible members of theſe Churches to be godly perſons; for godly perſons are not ſo enthralled to Antichriſt, as to ſeparate them from Chriſt, elſe they could not be godly perſons.</p>
+            <p>
+               <hi>Anſw.</hi> 2. We deny that it is neceſſary to Church-fellowſhip (to wit, ſo neceſſary as that without it, a Church cannot be) that the members admitted there<g ref="char:EOLhyphen"/>unto ſhould all of them ſee, expreſſely bewaile all the
+<pb n="5" facs="tcp:204876:4"/>pollutions which they have beene defiled with in the former Church-fellowſhip, miniſtery, worſhip, govern<g ref="char:EOLhyphen"/>ment. If they ſee and bewaile ſo much of their former pol<g ref="char:EOLhyphen"/>lutions as did enthrall them to Antichriſt, as to ſeparate them from Chriſt, and be ready in preparation of heart, as they ſhall ſee more light, ſo to hate more and more every falſe way, we conceive it is as much as is neceſſarily required to ſeparation from Antichriſt, and to fellowſhip with Chriſt and his Churches. The Churches of <hi>Iudea</hi> admitted many thouſand Jewes that believed on the name of Chriſt, al<g ref="char:EOLhyphen"/>though they were ſtill zealous of the Law, and ſaw not the beggetly emptineſſe of <hi>Moſes</hi> his ceremonies, <hi>Act.</hi> 21.20. And the Apoſtle <hi>Paul</hi> directeth the Romans to receive ſuch unto them as are weake in the faith, and ſee not their liberty from the ſervile difference of meats and dayes, but ſtill lie under the bondage of the Law, yea he wiſheth them to re<g ref="char:EOLhyphen"/>ceive ſuch upon this ground, becauſe Chriſt hath received them, <hi>Rom.</hi> 14.1. to 6.</p>
+            <p>Say not, there is not the like danger of lying under bon<g ref="char:EOLhyphen"/>dage to <hi>Moſes</hi> as to Antichriſt, for even the bondage un<g ref="char:EOLhyphen"/>der <hi>Moſes</hi> was ſuch, as if they continued in after inſtruction and conviction, would ſeparate them from Chriſt, <hi>Gal.</hi> 5.2. And bondage under Antichriſt could doe no more.</p>
+            <p>
+               <hi>Anſw.</hi> 3. To the places of Scripture which you object, <hi>Iſa.</hi> 52.11. 2 <hi>Cor.</hi> 6.17. <hi>Revel.</hi> 18.4. we anſwer, two of them make nothing to your purpoſe, for that of <hi>Eſay</hi> and the other of the <hi>Revelation,</hi> ſpeake of locall ſeparation, which your ſelfe knoweth we have made, and yet you ſay you doe not apprehend that to be ſufficient. As for that place of the <hi>Co<g ref="char:EOLhyphen"/>rinths,</hi> it onely requireth comming out from Idolaters in the fellowſhip of their Idolatry. No marriages were they to make with them: no feaſts were they to hold with them in the Idols Temple: no intimate familiaritie were they to
+<pb n="6" facs="tcp:204876:5"/>maintaine with them: nor any fellowſhip were they to keepe with them in the unfruitfull workes of darkeneſſe; and this is all which that place requireth. But what makes all this to prove that we may not receive ſuch perſons to Church-fellowſhip as our ſelves confeſſe to be godly, and who doe profeſſedly renounce and bewaile all knowne ſinne, and would renounce more if they knew more, although it may be they doe not yet ſee the utmoſt skirts of all that pollution they have ſometimes beene defiled with; as the Patriarchs ſaw not the pollution of their Polygamie? But that you may plainely ſee this place is wreſted beſides the Apoſtles ſcope, when you argue from it that ſuch perſons are not fit matter of Church-fellowſhip, as are defiled with any remnants of Antichriſtian pollution; nor ſuch Churches any more to be accounted Churches, as doe receive ſuch amongſt them; Conſider I pray you, were there not at that time in the Church of <hi>Corinth</hi> ſuch as partaked with Idolaters in their Idols Temples? and was not this the touching of an un<g ref="char:EOLhyphen"/>cleane thing? and did this ſinne reject theſe members from Church fellowſhip before conviction? or did it evacuate their Church eſtate for not caſting out of ſuch mem<g ref="char:EOLhyphen"/>bers?</p>
+            <p n="2">
+               <q>2. Your ſecond objection is taken from the confeſſion of ſinnes made by <hi>Johns</hi> Diſciples, and the proſelyte Gentiles before admiſſion into Church-fellowſhip, <hi>Matth.</hi> 3.6. <hi>Act.</hi> 19.18. whence you gather that Chriſtian Churches are conſtituted of ſuch members as make open and plaine con<g ref="char:EOLhyphen"/>feſſion of their ſinnes; and if any ſinnes be to be confeſ<g ref="char:EOLhyphen"/>ſed and lamented, (Jewiſh, or Paganiſh) then Antichriſtian drunkenneſſe, and whoredome much more, of all ſuch as have drunke of the whores cup, or but ſipt of it. And therefore as perſons, though godly, are not made fit for the Church, if open drunkenneſſe or whoredome lie upon
+<pb n="7" facs="tcp:204876:5"/>them, yea or but one act of either, untill conviction, true repentance, confeſſion, and renunciation of their wayes be diſcerned: ſo here.</q>
+            </p>
+            <p>And yet as if you had graſped more then you could hold, you let fall ſome part of what you had aſſumed, and doe grant, that</p>
+            <p>
+               <q>Such a confeſſion and renunciation is not abſolute ne<g ref="char:EOLhyphen"/>ceſſary to the admiſſion of members, (though the want of it be a grievous offence) if the ſubſtance of true repentance be diſcerned.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. If ſuch a confeſſion and renunciation be not of abſolute neceſſity to the admiſſion of members when the ſubſtance of true repentance is diſcerned, then ſuch Congre<g ref="char:EOLhyphen"/>gations may be true Churches (by your owne confeſſion) who doe admit for their members ſuch godly perſons as doe profeſſe and hold forth the ſubſtance of true repentance; for ſuch perſons profeſſing their repentance for all their knowne and open ſinnes, doe withall profeſſe their readi<g ref="char:EOLhyphen"/>neſſe to repent of and forſake whatſoever further ſinnes ſhall be diſcovered to them.</p>
+            <p>
+               <hi>Anſ.</hi> 2. When you judge that godly perſons are not mat<g ref="char:EOLhyphen"/>ter fitted for the Church, untill firſt they be illuminated and convinced of the ſinfulneſſe of every ſipping of the whores cup; you take away with the one hand what you granted with the other, and withall you impoſe a burthen upon the Church of Chriſt, which Chriſt never required at their hands nor yours.</p>
+            <p>For we deny that it is neceſſary to the admiſſion of mem<g ref="char:EOLhyphen"/>bers that every one ſhould be convinced of the ſinfulneſſe of every ſipping of the Whores cup, for every ſipping of a drunkards cup is not ſinfull; and though the cup of the whore doe more intoxicate the mind then the drunkards cup doth the body, yet you know bodily drunkenneſſe and
+<pb n="8" facs="tcp:204876:6"/>whoredome are ſuch notorions and groſſe ſinnes that no man that hath any true repentance in him, cannot but bee convinced of the ſinfulneſſe of them, and of the neceſſity of repentance of them in particular. But the Whores cup be<g ref="char:EOLhyphen"/>ing a myſtery of iniquity, the ſinfulneſſe of it, is nothing ſo evident and notorious as that every true repentant ſoule doth at firſt diſcerne the filthineſſe of it: and therefore as thoſe three thouſand Jewes and Proſelytes were admitted into the fellowſhip of the firſt Chriſtian Church, when they repen<g ref="char:EOLhyphen"/>ted of their murther of Chriſt, although they never ſaw nor confeſſed all the ſuperſtitious leavenings wherewith the Phariſees had bewitched them, <hi>Act.</hi> 2. 37 to 47. ſo doubt<g ref="char:EOLhyphen"/>leſſe may ſuch godly perſons be admitted into the fellow<g ref="char:EOLhyphen"/>ſhip of our Churches, who doe truely repent and confeſſe their greateſt and moſt notorious ſins, although they be not yet convinced of every paſſage of Antichriſtian ſuperſtition, wherewith they have beene defiled in their former walk<g ref="char:EOLhyphen"/>ings.</p>
+            <p>The Diſciples of <hi>John</hi> (whom you inſtance in) did indeed confeſſe their ſinnes, the Publicans their ſinnes, the Souldi<g ref="char:EOLhyphen"/>ers theirs, the People theirs, but yet it doth not appeare that they confeſſed their Phariſaicall pollutions, but rather the notorious ſinnes, incident to their callings, as did alſo thoſe Gentiles of whom you ſpeake, <hi>Act.</hi> 19.18, 19. Con<g ref="char:EOLhyphen"/>jurers confeſſed their curious Arts, and others their deeds, but whether all their deeds, is not expreſſed.</p>
+            <p>
+               <hi>Anſw.</hi> 3. But to ſatisfie you more fully (and the Lord make you willing in true meekeneſſe of Spirit to receive ſa<g ref="char:EOLhyphen"/>tisfaction) the body of the members whom we receive, doe in generall profeſſe, the reaſon of their comming over to us was, that they might be freed from the bondage of ſuch hu<g ref="char:EOLhyphen"/>mane inventions and ordinances as their ſoules groaned un<g ref="char:EOLhyphen"/>der, for which alſo they profeſſe their hearty ſorrow, ſo far
+<pb n="9" facs="tcp:204876:6"/>as through ignorance or infirmity they have beene defiled. Beſides, in our daily meetings, and eſpecially in times of our ſolemne hu<g ref="char:EOLhyphen"/>miliations, we generally all of us bewaile all our former pollutions, wherewith we have defiled our ſelves, and the holy things of God, in our former Adminiſtrations and Communions, but wee rather chooſe to doe it, than to talke of it, and wee cannot but wonder how you can ſo boldly and reſolutely renounce the Churches of Chriſt, for neglect of that, which you know not whether they have neglected or no, and before you have admoniſhed us of our ſinfulneſſe in ſuch neglect, if it be found amongſt us.</p>
+            <p>
+               <hi>Object.</hi> 3. <q>Your third Objection is taken from <hi>Hag.</hi> 2.13, 14, 15. a place which you deſire may be throughly weighed, and that the Lord would hold the ſcales himſelfe. The Prophet there tels the Church of the Jewes, that if a perſon uncleane by a dead body, touch holy things, thoſe holy things become uncleane unto him, and ſo, ſaith he, is this Nation, and ſo is every worke of their hands, and that which they offer there is uncleane. And this (as you conceive) argueth that even Church Covenants made, and Ordinances pra<g ref="char:EOLhyphen"/>ctiſed by perſons polluted through ſpirituall deadneſſe and filthineſſe of Communion, they become uncleane unto them, and are pro<g ref="char:EOLhyphen"/>phaned by them.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Now ſurely if your ſelfe had hearkned to your owne deſire, and had throughly weighed the Scripture, and had ſuffered the Lord to have held the ſcales himſelfe, you would never have alledged this place to your purpoſe. Your purpoſe was to prove that Churches connot be conſtituted by ſuch perſons as are uncleane by antichriſti<g ref="char:EOLhyphen"/>an pollutions, or if they be ſo conſtituted, they are not to be com<g ref="char:EOLhyphen"/>municated with, but ſeparated from: To prove this you alledge this place; when the Prophet acknowledgeth the whole Church of the Jewes to be uncleane, and yet neither denyeth them to be a Church truely conſtituted, nor ſtirreth up himſelfe or others to ſe<g ref="char:EOLhyphen"/>parate from them.</p>
+            <p>If you ſay, why but they were uncleane? I Anſwer, be it ſo, but were they therefore no Church truely conſtituted, or to be ſeparated from? yea did not <hi>Haggai</hi> and <hi>Zachary</hi> themſelves communicate with them, and call others alſo to come out of <hi>Babell</hi> to communicate with them, even whileſt <hi>Joſhua</hi> the High Prieſt was ſtill polluted with his unclean garments <hi>Zac.</hi> 2.6, 7. with 6.3.8.3. But if indeed you deſire to know, what upon due weighing of the place, I conceive to be the mea<g ref="char:EOLhyphen"/>ning of it, you ſhall finde it to be this; The occaſion of the words a<g ref="char:EOLhyphen"/>riſe
+<pb n="10" facs="tcp:204876:7"/>from a worldly diſtemper, which the time grew upon, all ſorts of the members of that Church, who were ſo farre carryed away with care of their owne outward accommodations, that while every man looked to his owne houſe, and the ſeiling of it, the Temple of the Lord and the building thereof was generally neglected of them all, Prince, Prieſt, and People, whence it was that God neither deligh<g ref="char:EOLhyphen"/>ted in their ſpirituall ſervices, nor in their bodily labours, but left them without a bleſſing in both, <hi>Hagg.</hi> 1.6. to 11. Now to cleare the juſtice of Gods proceeding againſt them in that caſe, he alledgeth a ſecondable law for it, out of <hi>Moſes;</hi> The former is written in <hi>Levit.</hi> 6.27. where the Law ſaith, that a garment touching any holy fleſh of the ſin offering ſhould be holy. But if the garment which toucheth holy fleſh ſhall touch other things, as the perſon that wea<g ref="char:EOLhyphen"/>reth it, or any pottage, or Bread, or wine, or any touch of other common thing, the thing touched is not thereby hallowed by the touch of ſuch a garment.</p>
+            <p>Againe, there was another Law, that whoſoever touched any un<g ref="char:EOLhyphen"/>cleane body, ſhould be uncleane ſeven dayes, and if in that time hee touched the Tabernacle, or the holy things thereof, they ſhall be un<g ref="char:EOLhyphen"/>cleane, <hi>Numb.</hi> 19.13. Now (to apply theſe Lawes to the ſcope of the Prophet) the touch of a dead body did type out either fellowſhip with dead workes, as <hi>Epheſ.</hi> 5.11. or dead perſons, 2 <hi>Cor.</hi> 6.14, 15, 16, 17. or dead world, <hi>Gal.</hi> 6.14. but of theſe three, it was the dead world wherewith Prieſt and Prince and all the people were at that time generally defiled, in that they tooke more care and paines for worldly conveniences, then for the Lords holy Ordinances. Where<g ref="char:EOLhyphen"/>upon according to the anſwer of the Prieſt, agreeable to the Law, the Prophet pronounceth them, in the ſight of the Lord, all to be un<g ref="char:EOLhyphen"/>cleane.</p>
+            <p>From both theſe Lawes, and the Interpretation of them by the Prieſt, and the application of them by the Prophet, it appeareth that there were two ſorts of theſe people, and both uncleane. Some that did not touch the holy fleſh, or offerings, but on the outſide of their garments onely, to wit, in bodily preſence (and the body is but the garment of the Soule) 1 <hi>Cor.</hi> 5.4. and ſuch were all the Hypocrites amongſt them: Others were ſincere, as worſhipping God in firme Truth, as <hi>Zorobabell, Jehoſhua,</hi> and many more, but yet now defiled with touching a dead body, that is, with laying hold on a dead world, their worldly accommodations, which made their hearts and hands ſlow or dead to ſet forward the Temple worke, and in this condition
+<pb n="11" facs="tcp:204876:7"/>both ſorts, their perſons, their oblations, their bodily labours, were all uncleane, and found neither acceptance nor bleſſing from the Lord, till the Lord ſtirred up the Spirits of them all to addreſſe them<g ref="char:EOLhyphen"/>ſelves more ſeriouſly to the Temple worke, <hi>Hag.</hi> 1.12, 13, 14.</p>
+            <p>This I take to be the true and genuine meaning of the place, which if you apply to the point in hand, will reach nothing neare to your purpoſe. Hypocrites in the Church, and godly Chriſtians them<g ref="char:EOLhyphen"/>ſelves, whilſt they attend to the world more then to the things of God, their perſons, their labours, their civill oblations are all un<g ref="char:EOLhyphen"/>cleane in the ſight of God; therefore the Church of Chriſt cannot be conſtituted of ſuch, or if it doe conſiſt of ſuch, the people of God muſt ſeparate from them. You might well have gathered, therefore, the Church of Chriſt and the members thereof muſt ſepa<g ref="char:EOLhyphen"/>rate themſelves from their hypocriſie, and inordinate love of this world, or elſe they and their duties will ſtill be uncleane in the ſight of God, notwithſtanding their Church eſtate. This collection ten<g ref="char:EOLhyphen"/>deth to edification, the other to diſſipation and deſtruction of the Church, and of them that wreſt blood in ſtead of milke from the breaſts of holy Scripture.</p>
+            <q>
+               <p>The ſecond ſtumbling blocke or offence which you take at the way of theſe Churches is, that you conceive us to walke betwixt Chriſt and Antichriſt.</p>
+               <p>Firſt, in practiſing ſeparation here, and not repenting of our preaching and printing againſt it in our owne country.</p>
+               <p>Secondly, in reproaching your ſelfe at <hi>Salem</hi> and others for ſe<g ref="char:EOLhyphen"/>paration.</p>
+               <p>Thirdly, in particular, that my ſelfe have conceived and ſpoken, that ſeparation is a way that God hath not proſpered as if (ſay you) the truth of the Churches way depended upon countenance of men, or upon outward peace and liberty.</p>
+            </q>
+            <p>
+               <hi>Anſw.</hi> 1. In ſtead of halting betwixt Chriſt and Antichriſt, wee conceive the Lord hath guided us to walke with an even foote be<g ref="char:EOLhyphen"/>tweene two extreames; ſo that we neither defile our ſelves with the remnant of pollutions in other Churches, nor doe wee for the rem<g ref="char:EOLhyphen"/>nant of pollutions renounce the Churches themſelves, nor the holy ordinances of God amongſt them, which our ſelves have found pow<g ref="char:EOLhyphen"/>erfull to our ſalvation. This moderation, ſo farre as we have kept it in preaching or printing, wee ſee no cauſe to repent of, but if you ſhew us cauſe why we ſhould repent of it, wee ſhall deſire to repent that we repented no ſooner.</p>
+            <pb n="12" facs="tcp:204876:8"/>
+            <p n="2">2. I know no man that reproacheth <hi>Salem</hi> for their ſeparation, nor doe I beleeve that they doe ſeparate. Howſoever if any doe re<g ref="char:EOLhyphen"/>proach them for it, I thinke it a ſinne meet to be cenſured, but not with ſo deepe a cenſure as to excommunicate all the Churches, or to ſeparate from them before it doe appeare that they doe tolerate their members in ſuch their cauſeleſſe reproachings. Wee confeſſe the er<g ref="char:EOLhyphen"/>rours of men are to be contended againſt, not with reproaches, but the ſword of the Spirit; but on the other ſide, the failings of the Churches (if any be found) are not forth with to be healed by ſepa<g ref="char:EOLhyphen"/>ration. It is not Chirurgery, but Butchery, to heale every ſore in a member with no other medicine but abſciſſion from the body.</p>
+            <p n="3">3. For my ſelfe, I acknowledge the words which you mention, that the way of ſeparation is not a way that God hath proſpered. But you much miſtake, when you thinke I ſpeake it for want of their out<g ref="char:EOLhyphen"/>ward countenance, peace and liberty. The truth is, they finde more favour in our native country then the way of reformation wherein we walke, which is commonly reproached by the name of Purita<g ref="char:EOLhyphen"/>niſme. The meetings of the Separatiſts may be knowne to the Offi<g ref="char:EOLhyphen"/>cers in the Courts and winked at when the Conventicles of the puri<g ref="char:EOLhyphen"/>tans (as they call them) ſhall be hunted out with all diligence, and pur<g ref="char:EOLhyphen"/>ſued with more violence then any law will juſtifie. But I ſaid that God had not proſpered the way of ſeparation, becauſe he hath not bleſſed it either with peace amongſt themſelves, or with growth of grace; ſuch as erring through ſimplicitie and tenderneſſe of conſcience have growne in grace, have growne alſo to diſcerne their lawfull liberty to returne to the hearing of the word from Engliſh Preachers.</p>
+            <p>
+               <hi>Object.</hi> But this (you feare) is to condemne the witneſſes of Jeſus (the ſeparate Churches in London and elſewhere) and our jealous God will viſit us for ſuch arrerages, yea the curſe of his Angel from <hi>Meroz</hi> will fall upon us, becauſe we come not forth to helpe Jehovah againſt the mighty, we pray not for them, wee come not at them, (but at Pariſhes frequently) yea we reproach and cenſure them.</p>
+            <p>
+               <hi>Anſw.</hi> The Lord Jeſus never delivered that way of ſeparation to which they beare witneſſe, nor any of his Apoſtles after him, nor of his Prophets before him. So farre as in that way they hold or pra<g ref="char:EOLhyphen"/>ctiſe any holy truths, wee beare witneſſe to them both in our pro<g ref="char:EOLhyphen"/>feſſion and practiſe. The Angels curſe in this caſe (wee bleſſe God) we doe not feare, becauſe we doe come forth (according to the mea<g ref="char:EOLhyphen"/>ſure of grace given us) to helpe the Lord againſt the mighty, although we doe not come forth to helpe them againſt Jehovah. It is not to
+<pb n="13" facs="tcp:204876:8"/>helpe Jehovah, but Satan againſt him, to withdraw the people of God from hearing the voyce of Chriſt which is preached in the evi<g ref="char:EOLhyphen"/>dence, and ſimplicity, and power of his Spirit in ſundry Congregati<g ref="char:EOLhyphen"/>ons (though they be Pariſhes) in our native Country. In which re<g ref="char:EOLhyphen"/>ſpect, though our people that goe over into England, chooſe ra<g ref="char:EOLhyphen"/>ther to heare in ſome of the Pariſhes where the voyce of Chriſt is lifted up like a trumpet, then in the ſeparated Churches (where ſome of us may ſpeak by experience we have not found the like preſence of Chriſt, or evidence of his Spirit) do not you marvaile, or ſtumble at it: Chriſts ſheepe heare his voyce. If any careleſſely heare at randome, making no difference betwixt the voyce of Chriſt and the voyce of ſtrangers, or if they ſhall ſtoope to any defilements of themſelves, that ſo they may heare a good Preacher; as I know none ſuch, ſo neither doe any of us approve them in ſo doing.</p>
+            <p>That wee doe not pray for the ſeparate Churches by name, it is becauſe we cannot pray in faith for a bleſſing upon their ſeparation, which we ſee not to be of God nor to be led to him. If any reproach them, I will not goe about to excuſe it, onely they may doe well to conſider, whether they alſo have not reproached others.</p>
+            <p>If there bee ſo many ſeparate Churches in London and in other parts of the Kingdome (as you write) it is little comfort to the true ſervants of Chriſt to heare that either ſuch inventions of men are multiplyed, as like ſtumbling blockes doe turne any well minded men out of the way, or that ſuch men being deſirous of reformation, ſhould ſtumble, not onely at the inventions of men, but for their ſakes at the ordinances of the Lord; which appeareth the more evidently, becauſe they ſeparate not onely from hearing the word in all the Pariſhes, but alſo from fellowſhip (as your ſelfe ſay) both of the Church of <hi>Plymouth,</hi> and of that whereof Maſter <hi>Lathorpe</hi> was Paſtor, and yet they refuſe all the inventions of men, and chooſe to ſerve the Lord in his owne Ordinances onely. Now truely Sir, (to uſe your owne words) I feare this newes pleaſeth not the Lord Jeſus, and therefore the more inwardly ſorry I am, that it pleaſeth you rather to returne to them, not to helpe the Lord againſt the mighty, to wit, either againſt the high Prelates, or againſt the inventions of men, as you ſuppoſe, for that you might have done here, or in <hi>Plymouth,</hi> or in Maſter <hi>Lathorpes</hi> Congregation; but to helpe erring though zealous ſoules againſt the mightie Ordinances of the Lord, which who<g ref="char:EOLhyphen"/>ſoever ſtumble at ſhall be broken; for whoſoever will not kiſſe the Sunne, (that is, will not heare and imbrace the words of his mouth) ſhall periſh in their way, <hi>Pſal.</hi> 2.12.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
